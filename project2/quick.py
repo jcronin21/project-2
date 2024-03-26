@@ -8,6 +8,6 @@ def get_trending(api_key):
     return data
 
 if __name__ == "__main__":
-    api_key = "ZYdJkh7f8h7myXG5gfjUd3jZT1BoshEo"
+    api_key = "1rcKChP84QC5RgzDuP3UyFzz79uPXwym"
     gifs = get_trending(api_key)
     print (gifs)
